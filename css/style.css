@@ -1,0 +1,25 @@
+@import url(//fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic);
+
+body {
+	font-family: 'Lato', Arial, sans-serif;
+}
+
+.heading {
+	text-align: center;
+	margin: 50px auto;
+}
+
+.heading h1 {
+	font: 24px/24px 'Lato';
+}
+
+.heading h2 {
+	font: 18px/18px 'Lato';
+	color: #666;
+}
+
+.time {
+	text-align: center;
+}
+
+.time input[type=text] { margin-bottom: 15px; }
